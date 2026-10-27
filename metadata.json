@@ -1,0 +1,6 @@
+{
+  "name": "SiHadir - Presensi Siswa SMP",
+  "description": "Sistem informasi presensi dan absensi siswa terpadu untuk jenjang SMP (Kelas 7, 8, dan 9) dilengkapi rekapitulasi, kartu pelajar barcode, dan notifikasi WhatsApp orang tua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
